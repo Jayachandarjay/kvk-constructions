@@ -1,0 +1,5 @@
+# Copy to .dev.vars for local testing with:  npx wrangler pages dev .
+RESEND_API_KEY=re_xxxxxxxxxxxxxxxxx
+TO_EMAIL=jayachandar1j@gmail.com
+FROM_EMAIL=KVK Website <onboarding@resend.dev>
+# TURNSTILE_SECRET=1x0000000000000000000000000000000AA
